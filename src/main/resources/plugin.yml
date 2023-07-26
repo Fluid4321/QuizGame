@@ -1,0 +1,4 @@
+name: QuizGame
+version: '${project.version}'
+main: fluid.quizgame.QuizGame
+api-version: '1.20'
